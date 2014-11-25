@@ -1,1 +1,1 @@
-CAD Files and software for a homemade (HR-OS1)[http://www.trossenrobotics.com/HR-OS1].
+CAD Files and software for a homemade [HR-OS1](http://www.trossenrobotics.com/HR-OS1).
